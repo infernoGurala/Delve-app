@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77888789578",
+    "project_id": "delve-app-bb660",
+    "storage_bucket": "delve-app-bb660.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77888789578:android:0fc2ad7ae4856310181ab3",
+        "android_client_info": {
+          "package_name": "com.delve.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77888789578-tor718qfndqqm0nb4t12qnkvkvl5hr75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delve.app",
+            "certificate_hash": "5e8140e2453cbab4f94c8bee5af449d9f51b9cca"
+          }
+        },
+        {
+          "client_id": "77888789578-d4vb1q41digc49afgo0si4uh311g6hsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcJdNX_EdjKd0CSNF_ECu6JIzjABWuqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77888789578-d4vb1q41digc49afgo0si4uh311g6hsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

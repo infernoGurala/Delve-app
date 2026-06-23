@@ -1,0 +1,48 @@
+name: delve_app
+description: "Delve — One word deeper, every day."
+publish_to: 'none'
+
+version: 0.9.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  shared_preferences: ^2.3.4
+  uuid: ^4.5.1
+  http: ^1.2.2
+  intl: ^0.19.0
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  google_sign_in: ^6.2.1
+  supabase_flutter: ^2.5.4
+  flutter_svg: ^2.0.10+1
+  package_info_plus: ^8.0.0
+  device_info_plus: ^11.1.1
+  dio: ^5.7.0
+  permission_handler: ^11.3.1
+  open_filex: ^4.5.0
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - logos/white.png
+    - logos/black.png
+
+  fonts:
+    - family: OrangeAvenue
+      fonts:
+        - asset: assets/fonts/OrangeAvenue-Regular.otf
